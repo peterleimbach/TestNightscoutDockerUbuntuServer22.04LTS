@@ -9,7 +9,7 @@ I installed a fresh Ubuntu Server on a small physical box.
 
 During the text based setup process I 
 1. asked to add the OpenSsh server as I used it via another Linux box as frontend.
-2. did not select any special components to be added - especially not the docker runtime as this was not wokring as I checked later!
+2. did not select any special components to be added - especially not the docker runtime as this was not working as I checked later!
 
 # setup docker on Ubuntu server
 
